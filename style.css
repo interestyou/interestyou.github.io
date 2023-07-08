@@ -1,0 +1,33 @@
+body {
+background-color:  #1a1a1a
+}
+
+
+p {
+  color: #FFFFFF
+}
+
+
+ul.navigator {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:  #666666; 
+  
+}
+
+
+ul.navigator li {
+  float: left;
+  font-size: 40px;	
+}
+
+
+ul.navigator li a {
+  display: block;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
